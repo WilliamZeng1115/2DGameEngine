@@ -1,0 +1,1 @@
+{"mapWidth":30,"mapHeight":30,"mapName":"Test","mapPath":"res/map.txt","gameMode":{"gameMode":"rpg","testFieldOne":"One","testFieldTwo":"Two","testFieldThree":"Three","testIntOne":3,"arrayTestOne":["TestArrayElement"]}}
